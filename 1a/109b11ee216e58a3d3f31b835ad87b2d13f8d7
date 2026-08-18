@@ -1,0 +1,19 @@
+types/defines/browser-run.d.ts
+  s_2b11353ed6173a::t_567fddf079c77f 227-240,282-334,393-402,601-624
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1a109b11ee216e58a3d3f31b835ad87b2d13f8d7",
+  "prompts": {},
+  "sessions": {
+    "s_2b11353ed6173a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_024a0c6daffeV0osq2AlfyS1id",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Niklas Huthmann <niklashuthmann@cloudflare.com>"
+    }
+  }
+}
