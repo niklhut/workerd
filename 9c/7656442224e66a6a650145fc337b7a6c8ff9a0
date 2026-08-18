@@ -1,0 +1,25 @@
+types/generated-snapshot/experimental/index.d.ts
+  s_0607bf4275357a::t_372e0aa6ab149e 12713-12714,12716-12720,12724-12736,12774-12825,12869-12871,12876,12878-12893,13029,13031-13032,13089-13111
+types/generated-snapshot/experimental/index.ts
+  s_0607bf4275357a::t_2b62991417f336 12727-12728,12730-12734,12738-12750,12788-12839,12883-12885,12890,12892-12907,13043,13045-13046,13103-13125
+types/generated-snapshot/index.d.ts
+  s_0607bf4275357a::t_1b493710420ab4 12423-12424,12426-12430,12434-12446,12484-12535,12579-12581,12586,12588-12603,12739,12741-12742,12799-12821
+types/generated-snapshot/index.ts
+  s_0607bf4275357a::t_7e253fd7478406 12437-12438,12440-12444,12448-12460,12498-12549,12593-12595,12600,12602-12617,12753,12755-12756,12813-12835
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9c7656442224e66a6a650145fc337b7a6c8ff9a0",
+  "prompts": {},
+  "sessions": {
+    "s_0607bf4275357a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb11fdd9ffe7nxF35jnBqHqBD",
+        "model": "claude-opus-5"
+      },
+      "human_author": "niklhut <49069026+niklhut@users.noreply.github.com>"
+    }
+  }
+}
