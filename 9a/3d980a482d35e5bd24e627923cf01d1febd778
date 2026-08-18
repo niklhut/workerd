@@ -1,0 +1,19 @@
+types/defines/browser-run.d.ts
+  s_0607bf4275357a::t_95fa8e26dce054 229-230,397
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9a3d980a482d35e5bd24e627923cf01d1febd778",
+  "prompts": {},
+  "sessions": {
+    "s_0607bf4275357a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feb11fdd9ffe7nxF35jnBqHqBD",
+        "model": "claude-opus-5"
+      },
+      "human_author": "niklhut <49069026+niklhut@users.noreply.github.com>"
+    }
+  }
+}
